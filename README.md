@@ -121,13 +121,24 @@ Mindset:
 
 ---
 
+
 # 🤖 Artificial Intelligence
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
+
+<img src="https://cdn.simpleicons.org/openai" height="55"/>
 
 </p>
+
+<div align="center">
+
+Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural Networks • LLMs • Prompt Engineering
+
+</div>
+
+---
 
 ### Areas of Interest
 
