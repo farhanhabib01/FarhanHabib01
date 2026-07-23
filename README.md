@@ -574,17 +574,6 @@ Maintained a **3.0 GPA** while continuously improving technical expertise throug
 > **Small improvements every day lead to extraordinary engineering skills.**
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanhabib01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhabib01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -606,15 +595,7 @@ Maintained a **3.0 GPA** while continuously improving technical expertise throug
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=farhanhabib01&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 📋 GitHub Profile Summary
 
