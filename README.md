@@ -183,7 +183,7 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 <img src="https://cdn.simpleicons.org/apache" height="55"/>
 
-<img src="https://cdn.simpleicons.org/insomnia" height="55"/>
+
 
 </p>
 
@@ -198,11 +198,7 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 <img src="https://cdn.simpleicons.org/canva" height="55"/>
 
-<img src="https://cdn.simpleicons.org/adobecreativecloud" height="55"/>
 
-<img src="https://cdn.simpleicons.org/adobelightroomclassic" height="55"/>
-
-<img src="https://cdn.simpleicons.org/adobeacrobatreader" height="55"/>
 
 </p>
 
