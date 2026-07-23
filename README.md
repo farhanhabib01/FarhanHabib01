@@ -101,102 +101,106 @@ Mindset:
 
 ---
 
-
-
 # 📱 Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter" height="55"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
 
 </p>
 
 ---
-
 
 # 🌐 Web Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="55"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 </p>
 
 ---
-
 
 # 🤖 Artificial Intelligence
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
-
-<img src="https://cdn.simpleicons.org/openai" height="55"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch"/>
 
 </p>
 
-<div align="center">
+### Areas of Interest
 
-Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural Networks • LLMs • Prompt Engineering
-
-</div>
+- Machine Learning
+- Deep Learning
+- AI Agents
+- Computer Vision
+- Neural Networks
+- Model Training
+- Intelligent Systems
 
 ---
-
-
 
 # ☁️ Cloud Platforms
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel" height="55"/>
-
-
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
 
 </p>
 
----
----
+Also familiar with
 
+- Oracle Cloud
+- OpenStack
+- Vercel
+
+---
 
 # 🗄 Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
+Also experienced with
+
+- Microsoft SQL Server
+
 ---
-
-
-
 
 # ⚙️ Developer Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="55"/>
-
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </p>
 
----
+Additional Tools
 
+- Windows Terminal
+- Insomnia
+- Apache
+
+---
 
 # 🎨 Creative Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,ai,blender,canva" height="55"/>
-
-
-
+<img src="https://skillicons.dev/icons?i=ps,ai,blender"/>
 
 </p>
+
+Also Experienced With
+
+- Adobe Lightroom Classic
+- Adobe Acrobat Reader
+- Adobe Creative Cloud
+- Canva
 
 ---
 
