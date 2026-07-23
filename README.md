@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 AI Developer | Python & C++ | SFML Game Developer | Machine Learning | Computer Vision
 
 
