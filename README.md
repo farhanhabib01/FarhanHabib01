@@ -197,9 +197,8 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,ai,blender" height="55"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,blender,canva" height="55"/>
 
-<img src="https://cdn.simpleicons.org/canva" height="55"/>
 
 
 
