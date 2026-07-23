@@ -179,7 +179,6 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="55"/>
 
-<img src="https://cdn.simpleicons.org/windows" height="55"/>
 
 <img src="https://cdn.simpleicons.org/apache" height="55"/>
 
@@ -195,7 +194,7 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 <img src="https://skillicons.dev/icons?i=ps,ai,blender" height="55"/>
 
-<img src="https://cdn.simpleicons.org/canva" height="55"/>
+
 
 
 
