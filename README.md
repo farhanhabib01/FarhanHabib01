@@ -158,11 +158,15 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Large L
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="55"/>
 
 </p>
 
-Also familiar with
+---
 
 - Oracle Cloud
 - OpenStack
