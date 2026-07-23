@@ -127,7 +127,7 @@ Mindset:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" height="55"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
 
 <img src="https://cdn.simpleicons.org/openai" height="55"/>
 
@@ -135,22 +135,11 @@ Mindset:
 
 <div align="center">
 
-Machine Learning • Deep Learning • Computer Vision • AI Agents • Large Language Models (LLMs)
+Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural Networks • LLMs • Prompt Engineering
 
 </div>
 
 
----
-
-### Areas of Interest
-
-- Machine Learning
-- Deep Learning
-- AI Agents
-- Computer Vision
-- Neural Networks
-- Model Training
-- Intelligent Systems
 
 ---
 
@@ -168,39 +157,36 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Large L
 
 ---
 
-- Oracle Cloud
-- OpenStack
-- Vercel
 
----
 
 # 🗄 Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55"/>
 
 </p>
 
-Also experienced with
-
-- Microsoft SQL Server
-
 ---
+
+
 
 # ⚙️ Developer Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="55"/>
+
+<img src="https://cdn.simpleicons.org/windows" height="55"/>
+
+<img src="https://cdn.simpleicons.org/apache" height="55"/>
+
+<img src="https://cdn.simpleicons.org/insomnia" height="55"/>
 
 </p>
 
-Additional Tools
-
-- Windows Terminal
-- Insomnia
-- Apache
 
 ---
 
@@ -208,16 +194,17 @@ Additional Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,ai,blender"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,blender" height="55"/>
+
+<img src="https://cdn.simpleicons.org/canva" height="55"/>
+
+<img src="https://cdn.simpleicons.org/adobecreativecloud" height="55"/>
+
+<img src="https://cdn.simpleicons.org/adobelightroomclassic" height="55"/>
+
+<img src="https://cdn.simpleicons.org/adobeacrobatreader" height="55"/>
 
 </p>
-
-Also Experienced With
-
-- Adobe Lightroom Classic
-- Adobe Acrobat Reader
-- Adobe Creative Cloud
-- Canva
 
 ---
 
