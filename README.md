@@ -129,7 +129,7 @@ Mindset:
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
 
-<img src="https://cdn.simpleicons.org/openai" height="55"/>
+
 
 </p>
 
