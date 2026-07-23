@@ -623,17 +623,7 @@ Maintained a **3.0 GPA** while continuously improving technical expertise throug
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/farhanhabib01/farhanhabib01/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** Enable this after creating the GitHub Action that generates the snake animation.
-
----
 
 # ⚡ Development Workflow
 
