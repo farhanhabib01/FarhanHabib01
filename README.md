@@ -507,7 +507,7 @@ Maintained a **3.0 GPA** while continuously improving technical expertise throug
 | Platform | Username |
 |----------|----------|
 | HackerRank | **@mfarhanhabib776** |
-| LeetCode | Coming Soon |
+| LeetCode | **farhan_habib01** |
 | Codeforces | Coming Soon |
 | CodeChef | Coming Soon |
 | GeeksforGeeks | Coming Soon |
