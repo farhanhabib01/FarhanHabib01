@@ -873,8 +873,8 @@ Others             ███░░░░░░░░░░░░░░░░░�
 
 ---
 
-# 🌟 Thank You
 
+## 🚀 Thanks for Visiting!
 <div align="center">
 
 ## Thank you for visiting my GitHub!
@@ -888,15 +888,6 @@ If you enjoy my work,
 🤝 Connect with me
 
 💬 Let's build something amazing together.
-# ☕ Support My Work
-
-If you enjoy my projects or find them helpful:
-
-⭐ Star my repositories
-
-🍴 Fork projects
-
-🤝 Collaborate on ideas
 
 💬 Share feedback
 
@@ -905,9 +896,8 @@ If you enjoy my projects or find them helpful:
 
 <div align="center">
 
-## 🚀 Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer"/>
+
 
 ### ⭐ If you like my work, don't forget to follow me!
 
@@ -941,6 +931,6 @@ If you enjoy my projects or find them helpful:
 ---
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7AA2F7,100:BB9AF7&section=footer"/>
+
 
 </div>
