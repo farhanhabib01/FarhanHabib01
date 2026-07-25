@@ -690,29 +690,6 @@ Game Development       ██████████████
 
 ---
 
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mfarhnahabib776@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-farhan-habib-310ab6384/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/farhanhabib01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/mfarhanhabib776">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 # 💙 Open Source Philosophy
 
@@ -736,6 +713,7 @@ If you enjoy my projects or find them helpful:
 
 ---
 
+
 <div align="center">
 
 ## 🚀 Thanks for Visiting!
@@ -747,6 +725,30 @@ If you enjoy my projects or find them helpful:
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Keep+Learning...;Keep+Building...;Keep+Growing...;The+Best+Way+to+Predict+the+Future+is+to+Create+It."/>
 
 </div>
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:mfarhnahabib776@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-farhan-habib-310ab6384/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/farhanhabib01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/mfarhanhabib776">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
 # 🏛 Engineering Principles
