@@ -256,10 +256,9 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400&v=1" alt="GitHub Streak"/>
 
 </div>
-
 ---
 
 # 📈 Contribution Activity Graph
