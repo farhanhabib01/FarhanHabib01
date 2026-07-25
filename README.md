@@ -12,7 +12,7 @@ Building AI-powered solutions that solve real-world problems through Machine Lea
 
 <img src="https://komarev.com/ghpvc/?username=farhanhabib01&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/farhanhabib01?style=for-the-badge&color=7aa2f7"/>
+<img src="https://img.shields.io/github/followers/farhanhabib01?style=for-the-badge&label=Followers&cacheSeconds=150"/>
 
 <img src="https://img.shields.io/github/stars/farhanhabib01?style=for-the-badge&color=bb9af7"/>
 
