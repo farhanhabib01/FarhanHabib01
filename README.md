@@ -252,6 +252,53 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 ---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanhabib01&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+
+
+# 📋 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanhabib01&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanhabib01&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhanhabib01&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhanhabib01&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhanhabib01&theme=tokyonight"/>
+
+</div>
+
+---
 # ⚡ Fun Facts
 
 - 🤖 Passionate about Artificial Intelligence
@@ -575,53 +622,7 @@ Maintained a **3.0 GPA** while continuously improving technical expertise throug
 ---
 
 
-# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanhabib01&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-
-
-# 📋 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanhabib01&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanhabib01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhanhabib01&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhanhabib01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhanhabib01&theme=tokyonight"/>
-
-</div>
-
----
 
 
 
