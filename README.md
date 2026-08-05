@@ -331,8 +331,6 @@ A fashion boutique website designed with an elegant interface and seamless brows
 
 ## ♟ Chess Game using SFML
 
-<img align="right" width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
-
 ### Overview
 
 A desktop chess game developed using C++ and SFML that demonstrates object-oriented programming principles and game logic implementation.
