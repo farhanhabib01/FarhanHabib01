@@ -155,7 +155,6 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 # 📊 GitHub Statistics
 
 <div align="center">
->
 
 </div>
 
