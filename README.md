@@ -230,35 +230,8 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 > It is about solving problems, creating value, and continuously improving through learning and innovation.
 
----
-
-
-
-# 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanhabib01&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
 
 ---
-# ⚡ Fun Facts
-
-- 🤖 Passionate about Artificial Intelligence
-- 🎮 Love building games with SFML
-- 📱 Enjoy Flutter app development
-- 🌐 Build responsive websites
-- ☁️ Exploring Cloud Computing
-- 📚 Always learning modern technologies
-- 🚀 Believe consistency beats talent
-
----
-# 💼 Professional Experience
-
-## 🚀 Freelance Web Developer | Fiverr
 
 **Role:** Freelance Web Developer
 
