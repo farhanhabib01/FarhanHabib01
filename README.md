@@ -220,27 +220,7 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 ---
 
-# 🔥 Core Strengths
 
-✅ Artificial Intelligence
-
-✅ Machine Learning
-
-✅ Deep Learning
-
-✅ Flutter Development
-
-✅ Python Development
-
-✅ Cloud Computing
-
-✅ Web Development
-
-✅ Problem Solving
-
-✅ Software Design
-
-✅ Game Development
 
 ---
 
@@ -252,14 +232,7 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 ---
 
-# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400&v=1" alt="GitHub Streak"/>
-
-</div>
----
 
 # 📈 Contribution Activity Graph
 
@@ -560,41 +533,7 @@ Maintained a **3.0 GPA** while continuously improving technical expertise throug
 
 ---
 
-# 📈 Professional Highlights
 
-✔ Freelance Web Development Experience
-
-✔ AI Developer
-
-✔ Flutter Developer
-
-✔ Python Developer
-
-✔ C++ Developer
-
-✔ SFML Game Developer
-
-✔ Machine Learning Enthusiast
-
-✔ Deep Learning Enthusiast
-
-✔ Cloud Computing Learner
-
-✔ Responsive Web Design
-
-✔ Modern UI Development
-
-✔ API Testing
-
-✔ SQL Databases
-
-✔ Problem Solver
-
-✔ Team Collaboration
-
-✔ Continuous Learning
-
----
 
 # 🌱 Currently Exploring
 
