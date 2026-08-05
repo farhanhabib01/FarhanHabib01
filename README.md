@@ -1,439 +1,182 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm M. Farhan Habib
+# Hi, I'm M. Farhan Habib 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=AI+Developer;Machine+Learning+Engineer;Flutter+Developer;Python+Developer;Computer+Vision+Enthusiast;Game+Developer+using+SFML;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+%26+C%2B%2B+Developer;Flutter+Learner;SFML+Game+Developer"/>
 
-<h3>
-Building AI-powered solutions that solve real-world problems through Machine Learning, Flutter, Python, and Modern Software Engineering.
-</h3>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=farhanhabib01&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/farhanhabib01?style=for-the-badge&label=Followers&cacheSeconds=150"/>
-
-<img src="https://img.shields.io/github/stars/farhanhabib01?style=for-the-badge&color=bb9af7"/>
-
-</p>
+### BS Artificial Intelligence Student | Python • C++ • Flutter | Building AI, Desktop & Web Applications
 
 </div>
 
 ---
 
-# 🌌 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+I'm a **BS Artificial Intelligence student** passionate about software development and artificial intelligence. I enjoy building desktop applications, responsive web interfaces, and exploring machine learning through practical projects.
 
-### 👨‍💻 AI Developer
-
-I am an aspiring **Artificial Intelligence Engineer** passionate about building intelligent software that combines **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Modern Application Development**.
-
-I enjoy transforming complex problems into scalable software solutions while continuously learning emerging technologies in Artificial Intelligence and Cloud Computing.
-
-My engineering philosophy revolves around:
-
-- Clean Architecture
-- Scalable Software
-- AI-first Development
-- Production Ready Code
-- Continuous Learning
-- Open Source Contribution
-- Problem Solving
-- User-Centered Design
+- 🎓 BS Artificial Intelligence Student
+- 💻 Interested in AI, Software Engineering, and Mobile Development
+- 🌱 Currently learning Machine Learning, Deep Learning, Flutter, and AI Agents
+- 🎮 Enjoy building desktop games using C++ and SFML
+- 🚀 Actively developing projects to strengthen problem-solving and software engineering skills
 
 ---
 
-## 🚀 Current Focus
+# 💻 Tech Stack
 
-- 🤖 AI Agents
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 📱 Flutter Development
-- 🐍 Python Engineering
-- 🎮 Game Development using SFML
-- ☁️ Cloud Computing
-- ⚡ Automation
+### Languages
 
----
-
-# 🎯 Professional Summary
-
-```yaml
-Name: M. Farhan Habib
-
-Role:
-  AI Developer
-
-Currently Learning:
-  - AI Agents
-  - Machine Learning
-  - Deep Learning
-  - Flutter
-  - Python
-  - Cloud Computing
-
-Interested In:
-  - Artificial Intelligence
-  - Computer Vision
-  - Software Engineering
-  - Mobile Development
-  - Web Development
-  - Game Development
-
-Working As:
-  Freelance Web Developer
-
-Mindset:
-  "Build. Learn. Improve. Repeat."
-```
-
----
-
-# 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,dart"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,dart,js,html,css"/>
 </p>
 
----
+### Frameworks & Libraries
 
-# 📱 Mobile Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,bootstrap"/>
 </p>
 
----
+### AI / Machine Learning
 
-# 🌐 Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 </p>
 
----
+### Databases
 
-
-
-# 🤖 Artificial Intelligence
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
-
-
-
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
 
-<div align="center">
+### Cloud
 
-Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural Networks • LLMs • Prompt Engineering
-
-</div>
-
-
-
----
-
-# ☁️ Cloud Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel" height="55"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="55"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
 </p>
 
----
+### Tools
 
-
-
-# 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://cdn.simpleicons.org/apache" height="48"/>
+<img src="https://cdn.simpleicons.org/insomnia" height="48"/>
 </p>
 
----
+### Creative Tools
 
-
-
-# ⚙️ Developer Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="55"/>
-
-
-<img src="https://cdn.simpleicons.org/apache" height="55"/>
-
-<img src="https://cdn.simpleicons.org/insomnia" height="55"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai,blender"/>
 </p>
-
----
-
-# 🎨 Creative Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ps,ai,blender" height="55"/>
-
-
-
-
-
-</p>
-
----
-
-# 🧠 Engineering Skills
-
-| Category | Technologies |
-|-----------|-------------|
-| Languages | C, C++, C#, Python, Dart |
-| AI | Machine Learning, Deep Learning, PyTorch |
-| Mobile | Flutter |
-| Cloud | AWS, Google Cloud, Oracle Cloud |
-| Backend | Python |
-| Database | MySQL, SQL Server |
-| Version Control | Git, GitHub |
-| IDE | VS Code |
-| API Testing | Insomnia |
-| Game Development | SFML |
-| Graphics | Photoshop, Illustrator, Blender |
-
----
-
-
-
----
-
-# 💡 Engineering Philosophy
-
-> Great software is not just about writing code.
-
-> It is about solving problems, creating value, and continuously improving through learning and innovation.
-
-
----
-
-**Role:** Freelance Web Developer
-
-As a freelance developer, I have worked on building modern websites and client-focused solutions while improving my software engineering, communication, and problem-solving skills.
-
-### Responsibilities
-
-- 🌐 Developed responsive websites
-- 🎨 Designed modern UI layouts
-- ⚡ Improved website performance
-- 🔍 Debugged production issues
-- 📱 Optimized websites for mobile devices
-- 🤝 Collaborated with clients to deliver customized solutions
-- 🛠 Maintained and enhanced existing web applications
-
-### Engineering Skills Applied
-
-- Requirement Analysis
-- Frontend Development
-- Performance Optimization
-- Client Communication
-- Version Control
-- Responsive Design
-- Software Debugging
 
 ---
 
 # 🚀 Featured Projects
+# 🚀 Featured Projects
 
----
+## 🛍️ LuxuryMart
+**A responsive luxury fashion e-commerce website inspired by premium retail brands.**
 
-## 🛍 LuxeMart — Modern E-Commerce Website
+**Repository:**  
+🔗 https://github.com/farhanhabib01/Luxe-Bottique
 
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap 5
 
-
-### Overview
-
-LuxeMart is a modern e-commerce platform focused on delivering a clean shopping experience with responsive design and scalable architecture.
-
-### Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Apache
-
-### Key Features
-
-- Responsive UI
-- Product Catalog
-- Shopping Experience
-- User-Friendly Navigation
-- Clean Design
-- Mobile Optimization
-
-### Engineering Highlights
-
-- Modular Design
-- Responsive Layout
-- Scalable Structure
-- Optimized Performance
-- Maintainable Codebase
+**Highlights**
+- Responsive layout for desktop, tablet, and mobile
+- Product categories with featured collections
+- Interactive shopping cart interface
+- Promotional sale section
+- Modern UI inspired by luxury fashion websites
+- Contact form and smooth navigation
 
 ---
 
 ## 👗 Luxe Boutique
+**A modern boutique website focused on clean design and an intuitive shopping experience.**
 
+**Repository:**  
+🔗 https://github.com/farhanhabib01/Luxe-Bottique
 
-
-### Overview
-
-A fashion boutique website designed with an elegant interface and seamless browsing experience.
-
-### Technologies
-
+**Technologies**
 - HTML
 - CSS
 - JavaScript
 
-### Features
-
-- Beautiful Product Showcase
-- Responsive Design
-- Interactive UI
-- Optimized Layout
-- Modern Styling
-
-### Focus Areas
-
-- UI/UX
-- Performance
-- Accessibility
-- Responsive Development
+**Highlights**
+- Elegant boutique-inspired interface
+- Responsive product showcase
+- Interactive navigation
+- Clean and minimal UI
+- Mobile-friendly design
 
 ---
 
-## ♟ Chess Game using SFML
+## ♟️ Chess Game (SFML)
+**A desktop chess game built in C++ using SFML to demonstrate object-oriented programming and game development concepts.**
 
-### Overview
+**Repository:**  
+🔗 https://github.com/farhanhabib01/Chess-Game
 
-A desktop chess game developed using C++ and SFML that demonstrates object-oriented programming principles and game logic implementation.
-
-### Technologies
-
+**Technologies**
 - C++
 - SFML
 
-### Features
-
-- Interactive Chess Board
-- Piece Movement
-- Collision Detection
-- Game Logic
-- Clean Object-Oriented Architecture
-- Desktop GUI
-
-### Engineering Challenges
-
-- Chess Movement Logic
-- Event Handling
-- Object-Oriented Design
-- Rendering Optimization
-- Game State Management
+**Highlights**
+- Complete chess board implementation
+- Piece movement validation
+- Object-oriented architecture
+- Event-driven gameplay
+- Desktop graphical interface
 
 ---
 
-# ⚙ Engineering Capabilities
+## ❌⭕ Tic Tac Toe (SFML)
+**A desktop Tic Tac Toe game built with C++ and SFML featuring a graphical user interface and interactive gameplay.**
 
-### Artificial Intelligence
+**Repository:**  
+🔗 https://github.com/farhanhabib01/Tic-Tac-Toe
 
-- Machine Learning
-- Deep Learning
-- AI Model Development
-- Computer Vision Fundamentals
-- PyTorch
-- Data Processing
+**Technologies**
+- C++
+- SFML
 
----
-
-### Software Engineering
-
-- Object-Oriented Programming
-- Modular Development
-- Clean Code
-- Debugging
-- Software Design Principles
+**Highlights**
+- Interactive GUI using SFML
+- Mouse-based gameplay
+- Win and draw detection
+- PNG-based graphics
+- Clean project structure suitable for learning game development
 
 ---
+# 📊 GitHub Statistics
 
-### Mobile Development
+<div align="center">
 
-- Flutter
-- Dart
-- Responsive Interfaces
-- Cross-Platform Development
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanhabib01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhabib01&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Cloud Technologies
+</div>
 
-- AWS
-- Google Cloud
-- Oracle Cloud
-- OpenStack
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true"/>
 
-### Database Engineering
-
-- MySQL
-- Microsoft SQL Server
-
----
-
-### API & Testing
-
-- REST API Testing
-- Insomnia
-- API Debugging
+</div>
 
 ---
 
 # 🏆 Achievements
 
-🥇 IEEE Society Hackathon
-
-**Best Problem Solver Award**
-
-Recognized for analytical thinking, innovative problem solving, and teamwork during the IEEE Society Hackathon.
-
----
-
-☁ AWS & Cloudflare Competition
-
-Participated in the **Vibe Coding Competition**, exploring cloud technologies, software development practices, and collaborative engineering.
-
----
-
-🎓 Academic Achievement
-
-Maintained a **3.0 GPA** while continuously improving technical expertise through self-learning and practical development.
+- 🥇 **IEEE Society Hackathon** — Best Problem Solver Award
+- ☁️ Participated in the **AWS & Cloudflare Vibe Coding Competition**
+- 🎓 Maintaining a **3.0 GPA** while building practical software development projects
 
 ---
 
@@ -449,352 +192,11 @@ Maintained a **3.0 GPA** while continuously improving technical expertise throug
 
 ---
 
-# 💡 Technical Interests
+# 📫 Connect With Me
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- AI Agents
-- Python Engineering
-- Flutter
-- Cloud Computing
-- Mobile Applications
-- Automation
-- Software Engineering
-- Game Development
+<p align="left">
 
----
-
-# 🧩 Competitive Programming
-
-| Platform | Username |
-|----------|----------|
-| HackerRank | **@mfarhanhabib776** |
-| LeetCode | **farhan_habib01** |
-| Codeforces | Coming Soon |
-| CodeChef | Coming Soon |
-| GeeksforGeeks | Coming Soon |
-
----
-
-
-
-# 🌱 Currently Exploring
-
-- 🤖 AI Agents
-- 🧠 Large Language Models (LLMs)
-- 🔥 Deep Learning
-- 📱 Flutter Advanced Concepts
-- 🐍 Advanced Python
-- ☁ Cloud Computing
-- 🏗 System Design
-- ⚡ Software Architecture
-- 🧩 Design Patterns
-- 🚀 Production-Ready AI Applications
-
----
-
-# 💬 Favorite Engineering Principles
-
-> **Write code for humans first, computers second.**
-
-> **Keep learning. Keep building. Keep improving.**
-
-> **Small improvements every day lead to extraordinary engineering skills.**
----
-
-
-
-
-
-
-# ⚡ Development Workflow
-
-```text
-          Idea
-            │
-            ▼
-      Requirement Analysis
-            │
-            ▼
-      Software Design
-            │
-            ▼
-      Development
-            │
-            ▼
-      Testing & Debugging
-            │
-            ▼
-      Deployment
-            │
-            ▼
-      Continuous Improvement
-```
-
----
-
-# 🧠 Engineering Mindset
-
-```text
-Problem Solving        ████████████████████
-
-Python                 ██████████████████
-
-Artificial Intelligence██████████████████
-
-Flutter                ███████████████
-
-C++                    █████████████████
-
-Machine Learning       ███████████████
-
-Cloud Computing        █████████████
-
-Web Development        ███████████████
-
-Game Development       ██████████████
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build production-ready AI applications
-- ✅ Master Machine Learning & Deep Learning
-- ✅ Develop intelligent AI Agents
-- ✅ Publish impactful GitHub projects
-- ✅ Improve Flutter expertise
-- ✅ Learn advanced System Design
-- ✅ Strengthen Cloud Computing skills
-- ✅ Contribute to Open Source
-- ✅ Solve more coding challenges
-- ✅ Build a strong developer portfolio
-
----
-
-
-# 💙 Open Source Philosophy
-
-> **"Every line of code is an opportunity to learn, improve, and create something meaningful."**
-
-I believe that continuous learning, collaboration, and sharing knowledge are the foundations of great software engineering. My goal is to build impactful applications while growing as an AI Engineer and contributing to the developer community.
-
----
-
-
-
-# 🏛 Engineering Principles
-
-<div align="center">
-
-| Principle | Description |
-|------------|-------------|
-| 🧩 Clean Code | Writing readable and maintainable software |
-| ⚡ Performance | Optimize before scaling |
-| 🔒 Security | Build secure applications from the beginning |
-| 🚀 Scalability | Design software that grows with users |
-| 🧠 Simplicity | Prefer simple, elegant solutions |
-| 🤝 Collaboration | Great software is built by great teams |
-| 📚 Continuous Learning | Technology evolves every day |
-
-</div>
-
----
-
-# 📚 Learning Journey
-
-```text
-Programming Fundamentals      ████████████████████████ 100%
-
-Object Oriented Programming   ███████████████████████ 95%
-
-Python                        ██████████████████████ 90%
-
-C++                           █████████████████████ 88%
-
-Flutter                       ████████████████████ 82%
-
-Machine Learning              ██████████████████ 75%
-
-Deep Learning                 ████████████████ 68%
-
-Cloud Computing               ██████████████ 60%
-
-AI Agents                     ████████████ 50%
-```
-
----
-
-# 🛠 Development Workflow
-
-```mermaid
-graph LR
-
-A[Idea] --> B[Research]
-
-B --> C[Planning]
-
-C --> D[Design]
-
-D --> E[Development]
-
-E --> F[Testing]
-
-F --> G[Deployment]
-
-G --> H[Maintenance]
-
-H --> I[Continuous Improvement]
-```
-
----
-
-# 📦 Technology Ecosystem
-
-```text
-                   Artificial Intelligence
-
-                           │
-
-        ┌──────────────────┼───────────────────┐
-
-        │                  │                   │
-
- Machine Learning     Deep Learning     Computer Vision
-
-        │                  │                   │
-
-        └────────────── Python ───────────────┘
-
-                           │
-
-                  Flutter Applications
-
-                           │
-
-                 Cloud Infrastructure
-
-                           │
-
-                Modern Software Engineering
-```
-
----
-
-# 📅 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-
-```text
-Python             ██████████████████░░░░ 40%
-
-C++                ██████████████░░░░░░░ 30%
-
-Flutter            █████████░░░░░░░░░░░░ 15%
-
-SQL                █████░░░░░░░░░░░░░░░░ 8%
-
-Others             ███░░░░░░░░░░░░░░░░░░ 7%
-```
-
-<!--END_SECTION:waka-->
-
----
-
-# 📈 Career Roadmap
-
-## Phase 1 ✅
-
-- Learn C++
-- Learn Python
-- Learn Flutter
-- Build Web Projects
-- Build Desktop Applications
-
----
-
-## Phase 2 🚀
-
-- Master Machine Learning
-- Build AI Applications
-- Learn Deep Learning
-- Build Production Flutter Apps
-
----
-
-## Phase 3 🎯
-
-- AI Engineer
-- Open Source Contributor
-- Publish Research Projects
-- Build AI Products
-
----
-
-# 💎 Personal Values
-
-- Integrity
-- Curiosity
-- Discipline
-- Consistency
-- Teamwork
-- Innovation
-- Lifelong Learning
-
----
-
-# 📖 Favorite Quote
-
-> "Success is built one commit, one bug fix, and one lesson at a time."
-
----
-
-# 💻 Developer Quote
-
-> "Code is more than syntax—it is the art of solving problems through logic, creativity, and persistence."
-
----
-
-
-## 🚀 Thanks for Visiting!
-<div align="center">
-
-## Thank you for visiting my GitHub!
-
-If you enjoy my work,
-
-⭐ Star my repositories
-
-🍴 Fork my projects
-
-🤝 Connect with me
-
-💬 Let's build something amazing together.
-
-💬 Share feedback
-
----
-
-
-<div align="center">
-
-
-
-
-### ⭐ If you like my work, don't forget to follow me!
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Keep+Learning...;Keep+Building...;Keep+Growing...;The+Best+Way+to+Predict+the+Future+is+to+Create+It."/>
-
-</div>
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mfarhnahabib776@gmail.com">
+<a href="mailto:mfarhanhabib776@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -810,11 +212,16 @@ If you enjoy my work,
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
-<br>
 
+<div align="center">
 
+### Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to explore the repositories, connect with me on LinkedIn, or share feedback. I'm always open to learning and collaborating on meaningful software projects.
+
+⭐ If you like my work, consider starring a repository.
 
 </div>
