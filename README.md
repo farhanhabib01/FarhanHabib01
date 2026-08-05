@@ -2,28 +2,32 @@
 
 # Hi, I'm M. Farhan Habib 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Aspiring+AI+%26+Software+Developer;Python+%7C+C%2B%2B+%7C+Flutter;Building+Desktop,+Web+%26+AI+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+%26+C%2B%2B+Developer;Flutter+Learner;SFML+Game+Developer"/>
 
-**BS Artificial Intelligence Student**
-
-Python • C++ • Flutter • Web Development
+### BS Artificial Intelligence Student | Python • C++ • Flutter | Building AI, Desktop & Web Applications
 
 </div>
 
-## About Me
+---
 
-- 🎓 BS Artificial Intelligence student at the University of Central Punjab (UCP).
-- 💻 Interested in artificial intelligence, software engineering, and desktop application development.
-- 🌱 Currently learning Machine Learning, Deep Learning, Flutter, and AI Agents.
-- 🎮 Build desktop applications and games using C++ and SFML.
-- 📚 Focused on strengthening software engineering fundamentals through hands-on projects.
+## 👨‍💻 About Me
 
-## Tech Stack
+I'm a **BS Artificial Intelligence student** passionate about software development and artificial intelligence. I enjoy building desktop applications, responsive web interfaces, and exploring machine learning through practical projects.
+
+- 🎓 BS Artificial Intelligence Student
+- 💻 Interested in AI, Software Engineering, and Mobile Development
+- 🌱 Currently learning Machine Learning, Deep Learning, Flutter, and AI Agents
+- 🎮 Enjoy building desktop games using C++ and SFML
+- 🚀 Actively developing projects to strengthen problem-solving and software engineering skills
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,dart,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,dart,js,html,css"/>
 </p>
 
 ### Frameworks & Libraries
@@ -32,7 +36,7 @@ Python • C++ • Flutter • Web Development
 <img src="https://skillicons.dev/icons?i=flutter,bootstrap"/>
 </p>
 
-### AI / ML
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch"/>
@@ -48,62 +52,115 @@ Python • C++ • Flutter • Web Development
 ### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
 </p>
 
-### Developer Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://cdn.simpleicons.org/apache" height="48"/>
+<img src="https://cdn.simpleicons.org/insomnia" height="48"/>
 </p>
 
-## Featured Projects
+### Creative Tools
 
-### 🛍️ LuxuryMart
-Responsive luxury fashion e-commerce website inspired by premium retail brands.
-
-**Tech:** HTML5 • CSS3 • JavaScript • Bootstrap 5
-
-**Repository:**  
-https://github.com/farhanhabib01/Luxe-Bottique
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai,blender"/>
+</p>
 
 ---
 
-### 👗 Luxe Boutique
-Fashion boutique website featuring a responsive interface and modern shopping experience.
+# 🚀 Featured Projects
+# 🚀 Featured Projects
 
-**Tech:** HTML • CSS • JavaScript
+## 🛍️ LuxuryMart
+**A responsive luxury fashion e-commerce website inspired by premium retail brands.**
 
 **Repository:**  
-https://github.com/farhanhabib01/Luxe-Bottique
+🔗 https://github.com/farhanhabib01/Luxe-Bottique
+
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap 5
+
+**Highlights**
+- Responsive layout for desktop, tablet, and mobile
+- Product categories with featured collections
+- Interactive shopping cart interface
+- Promotional sale section
+- Modern UI inspired by luxury fashion websites
+- Contact form and smooth navigation
 
 ---
 
-### ♟️ Chess Game (SFML)
-Desktop chess game demonstrating object-oriented programming and game development concepts.
-
-**Tech:** C++ • SFML
+## 👗 Luxe Boutique
+**A modern boutique website focused on clean design and an intuitive shopping experience.**
 
 **Repository:**  
-https://github.com/farhanhabib01/Chess-Game
+🔗 https://github.com/farhanhabib01/Luxe-Bottique
+
+**Technologies**
+- HTML
+- CSS
+- JavaScript
+
+**Highlights**
+- Elegant boutique-inspired interface
+- Responsive product showcase
+- Interactive navigation
+- Clean and minimal UI
+- Mobile-friendly design
 
 ---
 
-### ❌ Tic Tac Toe (SFML)
-Graphical desktop Tic Tac Toe game built with SFML featuring interactive gameplay.
-
-**Tech:** C++ • SFML
+## ♟️ Chess Game (SFML)
+**A desktop chess game built in C++ using SFML to demonstrate object-oriented programming and game development concepts.**
 
 **Repository:**  
-https://github.com/farhanhabib01/Tic-Tac-Toe
+🔗 https://github.com/farhanhabib01/Chess-Game
 
-## GitHub Stats
+**Technologies**
+- C++
+- SFML
+
+**Highlights**
+- Complete chess board implementation
+- Piece movement validation
+- Object-oriented architecture
+- Event-driven gameplay
+- Desktop graphical interface
+
+---
+
+## ❌⭕ Tic Tac Toe (SFML)
+**A desktop Tic Tac Toe game built with C++ and SFML featuring a graphical user interface and interactive gameplay.**
+
+**Repository:**  
+🔗 https://github.com/farhanhabib01/Tic-Tac-Toe
+
+**Technologies**
+- C++
+- SFML
+
+**Highlights**
+- Interactive GUI using SFML
+- Mouse-based gameplay
+- Win and draw detection
+- PNG-based graphics
+- Clean project structure suitable for learning game development
+
+---
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=farhanhabib01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanhabib01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhabib01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhabib01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -113,24 +170,31 @@ https://github.com/farhanhabib01/Tic-Tac-Toe
 
 </div>
 
-## Achievements
+---
 
-- 🥇 Best Problem Solver Award — IEEE Society Hackathon
-- ☁️ Participant — AWS & Cloudflare Vibe Coding Competition
+# 🏆 Achievements
 
-## Certifications
+- 🥇 **IEEE Society Hackathon** — Best Problem Solver Award
+- ☁️ Participated in the **AWS & Cloudflare Vibe Coding Competition**
+- 🎓 Maintaining a **3.0 GPA** while building practical software development projects
+
+---
+
+# 📜 Certifications
 
 | Organization | Certification |
-|--------------|---------------|
+|--------------|--------------|
 | Cisco | Introduction to Modern AI |
 | IBM | Introduction to Cybersecurity Essentials |
 | Google | Automate Cybersecurity Tasks with Python |
 | Google | Tools of the Trade: Linux and SQL |
 | Google | Assets, Threats, and Vulnerabilities |
 
-## Contact
+---
 
-<p>
+# 📫 Connect With Me
+
+<p align="left">
 
 <a href="mailto:mfarhanhabib776@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -149,3 +213,15 @@ https://github.com/farhanhabib01/Tic-Tac-Toe
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to explore the repositories, connect with me on LinkedIn, or share feedback. I'm always open to learning and collaborating on meaningful software projects.
+
+⭐ If you like my work, consider starring a repository.
+
+</div>
