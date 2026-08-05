@@ -139,7 +139,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
