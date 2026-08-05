@@ -242,33 +242,7 @@ Machine Learning • Deep Learning • Computer Vision • AI Agents • Neural 
 
 </div>
 
----
 
-
-
-# 📋 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanhabib01&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanhabib01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhanhabib01&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhanhabib01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhanhabib01&theme=tokyonight"/>
-
-</div>
 
 ---
 # ⚡ Fun Facts
