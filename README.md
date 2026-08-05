@@ -265,7 +265,7 @@ As a freelance developer, I have worked on building modern websites and client-f
 
 ## 🛍 LuxeMart — Modern E-Commerce Website
 
-<img align="right" width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
 
 ### Overview
 
@@ -300,7 +300,7 @@ LuxeMart is a modern e-commerce platform focused on delivering a clean shopping 
 
 ## 👗 Luxe Boutique
 
-<img align="right" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
 
 ### Overview
 
