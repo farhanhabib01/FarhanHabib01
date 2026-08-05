@@ -73,27 +73,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 ---
 # 🚀 Featured Projects
 
-## 🛍️ LuxuryMart
-**A responsive luxury fashion e-commerce website inspired by premium retail brands.**
 
-**Repository:**  
-🔗 https://github.com/farhanhabib01/Luxe-Bottique
-
-**Technologies**
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Bootstrap 5
-
-**Highlights**
-- Responsive layout for desktop, tablet, and mobile
-- Product categories with featured collections
-- Interactive shopping cart interface
-- Promotional sale section
-- Modern UI inspired by luxury fashion websites
-- Contact form and smooth navigation
-
----
 
 ## 👗 Luxe Boutique
 **A modern boutique website focused on clean design and an intuitive shopping experience.**
@@ -115,7 +95,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 
 ---
 
-## ♟️ Chess Game (SFML)
+## ♟️ Chess Game (C++ with SFML)
 **A desktop chess game built in C++ using SFML to demonstrate object-oriented programming and game development concepts.**
 
 **Repository:**  
@@ -134,7 +114,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 
 ---
 
-## ❌⭕ Tic Tac Toe (SFML)
+## ❌⭕ Tic Tac Toe (C++ with SFML)
 **A desktop Tic Tac Toe game built with C++ and SFML featuring a graphical user interface and interactive gameplay.**
 
 **Repository:**  
