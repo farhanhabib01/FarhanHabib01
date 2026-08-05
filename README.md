@@ -72,7 +72,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 
 ---
 
-# 🚀 Featured Projects
+
 # 🚀 Featured Projects
 
 ## 🛍️ LuxuryMart
