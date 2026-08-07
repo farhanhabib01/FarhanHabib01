@@ -73,31 +73,27 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 ---
 # 🚀 Featured Projects
 
-♟️ Chess Android Game (Unity Engine)
+## ♟️ Chess Android Game (Unity Engine)
 
-A complete Android Chess game developed in Unity Engine featuring an interactive chessboard, professional UI, move validation, captured pieces tracking, game timer, and responsive mobile gameplay. The project demonstrates object-oriented programming, game architecture, and Unity-based game development.
+**A lightweight Android chess game developed in Unity Engine featuring smooth gameplay, legal move validation, and a clean mobile-friendly interface. The project demonstrates Unity game development, object-oriented programming, and interactive board game mechanics.**
 
-Repository:
+**Repository:**
 🔗 https://github.com/farhanhabib01/Chess-Android-Game-Unity-Engine
 
-Technologies
+**Technologies**
 
-Unity Engine
-C#
-Android
-Unity UI
-Object-Oriented Programming
+* Unity Engine
+* C#
+* Android
 
-Highlights
+**Highlights**
 
-Professional Android chess experience
-Complete chess rules and legal move validation
-Interactive drag-and-drop gameplay
-Captured pieces display
-Move highlighting system
-Responsive mobile UI
-Clean and modular game architecture
-Scalable codebase for future AI and multiplayer support
+* Interactive chess gameplay
+* Legal move validation
+* Mobile-optimized interface
+* Object-oriented architecture
+* Clean and maintainable code
+
 
 ## 👗 Luxe Boutique
 **A modern boutique website focused on clean design and an intuitive shopping experience.**
