@@ -78,22 +78,24 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 **A lightweight Android chess game developed in Unity Engine featuring smooth gameplay, legal move validation, and a clean mobile-friendly interface. The project demonstrates Unity game development, object-oriented programming, and interactive board game mechanics.**
 
 **Repository:**
+
 🔗 https://github.com/farhanhabib01/Chess-Android-Game-Unity-Engine
 
 **Technologies**
 
-* Unity Engine
-* C#
-* Android
+- Unity Engine
+- C#
+- Android
 
 **Highlights**
 
-* Interactive chess gameplay
-* Legal move validation
-* Mobile-optimized interface
-* Object-oriented architecture
-* Clean and maintainable code
+- Interactive chess gameplay
+- Legal move validation
+- Mobile-optimized interface
+- Object-oriented architecture
+- Clean and maintainable code
 
+---
 
 ## 👗 Luxe Boutique
 **A modern boutique website focused on clean design and an intuitive shopping experience.**
