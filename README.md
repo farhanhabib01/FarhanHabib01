@@ -103,25 +103,6 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 * Background music + sound effects
 * Animated game-over system
 * Android APK support
---
-
-## 👗 Luxe Boutique
-**A modern boutique website focused on clean design and an intuitive shopping experience.**
-
-**Repository:**  
-🔗 https://github.com/farhanhabib01/Luxe-Bottique
-
-**Technologies**
-- HTML
-- CSS
-- JavaScript
-
-**Highlights**
-- Elegant boutique-inspired interface
-- Responsive product showcase
-- Interactive navigation
-- Clean and minimal UI
-- Mobile-friendly design
 
 ---
 
