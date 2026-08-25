@@ -125,24 +125,26 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 
 ---
 
-## ♟️ Chess Game (C++ with SFML)
-**A desktop chess game built in C++ using SFML to demonstrate object-oriented programming and game development concepts.**
+## 🍬 Candy Crush Saga (C++ with SFML)
 
-**Repository:**  
-🔗 https://github.com/farhanhabib01/Chess-Game
+**A colorful desktop match-3 puzzle game built in C++ using SFML, featuring interactive gameplay, candy matching, scoring, animations, and an engaging graphical interface.**
+
+**Repository:**
+🔗 https://github.com/farhanhabib01/Candy-Crush-Saga
 
 **Technologies**
-- C++
-- SFML
+
+* C++
+* SFML
 
 **Highlights**
-- Complete chess board implementation
-- Piece movement validation
-- Object-oriented architecture
-- Event-driven gameplay
-- Desktop graphical interface
 
----
+* Match-3 candy gameplay
+* Interactive grid & swapping
+* Score-based system
+* Animated game mechanics
+* Event-driven gameplay
+* Desktop graphical interface
 
 ## ❌⭕ Tic Tac Toe (C++ with SFML)
 **A desktop Tic Tac Toe game built with C++ and SFML featuring a graphical user interface and interactive gameplay.**
