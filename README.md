@@ -115,8 +115,8 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 
 **Technologies**
 
-* C++
-* SFML
+* Kotlin
+*Android API
 
 **Highlights**
 
