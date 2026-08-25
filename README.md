@@ -155,15 +155,30 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 - Clean project structure suitable for learning game development
 
 ---
-# 📊 GitHub Statistics
+# 📊 GitHub Profile Summary
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghaniaarshad01&theme=github_dark"/>
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=farhanhabib01&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghaniaarshad01&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghaniaarshad01&theme=github_dark" width="49%"/>
+
 </div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghaniaarshad01&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghaniaarshad01&theme=github_dark&utcOffset=5" width="49%"/>
+
+</div>
+
 
 ---
 
