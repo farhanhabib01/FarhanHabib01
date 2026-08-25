@@ -151,7 +151,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 - Object-oriented architecture
 - Clean and maintainable code
 
--
+
 ---
 # 📊 GitHub Profile Summary
 
