@@ -146,23 +146,30 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 * Event-driven gameplay
 * Desktop graphical interface
 
-## ❌⭕ Tic Tac Toe (C++ with SFML)
-**A desktop Tic Tac Toe game built with C++ and SFML featuring a graphical user interface and interactive gameplay.**
+## ♟️ Chess Android Game (Unity Engine)
 
-**Repository:**  
-🔗 https://github.com/farhanhabib01/Tic-Tac-Toe
+**A lightweight Android chess game developed in Unity Engine featuring smooth gameplay, legal move validation, and a clean mobile-friendly interface. The project demonstrates Unity game development, object-oriented programming, and interactive board game mechanics.**
+
+**Repository:**
+
+
+🔗 https://github.com/farhanhabib01/Chess-Android-Game-Unity-Engine
 
 **Technologies**
-- C++
-- SFML
+
+- Unity Engine
+- C#
+- Android
 
 **Highlights**
-- Interactive GUI using SFML
-- Mouse-based gameplay
-- Win and draw detection
-- PNG-based graphics
-- Clean project structure suitable for learning game development
 
+- Interactive chess gameplay
+- Legal move validation
+- Mobile-optimized interface
+- Object-oriented architecture
+- Clean and maintainable code
+
+-
 ---
 # 📊 GitHub Profile Summary
 
