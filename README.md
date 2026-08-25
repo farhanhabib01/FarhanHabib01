@@ -73,30 +73,37 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 ---
 # 🚀 Featured Projects
 
-## ♟️ Chess Android Game (Unity Engine)
+## 🏃 Runner Chase – Flutter Android Game
 
-**A lightweight Android chess game developed in Unity Engine featuring smooth gameplay, legal move validation, and a clean mobile-friendly interface. The project demonstrates Unity game development, object-oriented programming, and interactive board game mechanics.**
+**A fast-paced endless runner game built with Flutter and Dart, featuring touch controls, dynamic difficulty, obstacles, coins, animations, background music, and synchronized sound effects.**
 
 **Repository:**
-
-
-🔗 https://github.com/farhanhabib01/Chess-Android-Game-Unity-Engine
+🔗 https://github.com/farhanhabib01/my_app
 
 **Technologies**
 
-- Unity Engine
-- C#
-- Android
+* Flutter
+* Dart
+* Android
+* Audioplayers
+
+**Version & Packages**
+
+* App Version: `v3.0.0`
+* `audioplayers`: `^6.8.1`
+* `audioplayers_android`: `5.3.0`
+* `flutter_launcher_icons`: `^0.14.4`
+* Compile SDK: `36`
 
 **Highlights**
 
-- Interactive chess gameplay
-- Legal move validation
-- Mobile-optimized interface
-- Object-oriented architecture
-- Clean and maintainable code
-
----
+* Touch-based controls
+* Dynamic speed & difficulty
+* Coins & obstacles
+* Background music + sound effects
+* Animated game-over system
+* Android APK support
+--
 
 ## 👗 Luxe Boutique
 **A modern boutique website focused on clean design and an intuitive shopping experience.**
