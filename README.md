@@ -126,6 +126,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 * Animated game mechanics
 * Event-driven gameplay
 * Desktop graphical interface
+---
 
 ## ♟️ Chess Android Game (Unity Engine)
 
