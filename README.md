@@ -116,8 +116,7 @@ I'm a **BS Artificial Intelligence student** passionate about software developme
 **Technologies**
 
 * Kotlin
-
-*Android API
+* Android API
 
 **Highlights**
 
